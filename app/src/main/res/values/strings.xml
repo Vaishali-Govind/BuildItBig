@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="LoadingStarted">Loading ... Started</string>
+    <string name="LoadingStopped">Loading... Stopped</string>
+
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press this button for an Awesome joke!</string>
+    <string name="button_text">Tell A Joke</string>
+    <string name="action_settings">Settings</string>
+
+
+
+</resources>
